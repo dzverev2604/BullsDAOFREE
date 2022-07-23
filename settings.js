@@ -22,7 +22,7 @@ const claimPageInfo = {
 
     claimButtonText: "MINT NOW",
 
-    image: "ola.gif", // relative path to image (in assets)
+    image: "ola.jpg", // relative path to image (in assets)
     imageRadius: 250, // image radius in px
 }
 
