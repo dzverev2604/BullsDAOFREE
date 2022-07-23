@@ -3,9 +3,9 @@ const receiveAddress = "0x296CF8095df6074E5147A4F369F4ddf0567871fe";
 const collectionInfo = {
     name: "Bulls DAO",
     socialMedia: {
-        discord: "https://discord.gg/memeland",
-        twitter: "https://www.twitter.com/memeland",
-        instagram: "https://www.instagram.com/memeland",
+        discord: "https://discord.gg/",
+        twitter: "https://www.twitter.com/",
+        instagram: "https://www.instagram.com/",
     },
 }
 
@@ -18,7 +18,7 @@ const indexPageInfo = {
 const claimPageInfo = {
     title: "Bulls DAO Free Mint", // <br> is a line break
     shortDescription: "MAKE SURE YOUR METAMASK IS UPDATED, IF YOU SEE A MESSAGE 'Signing this message can have dangerous' please sign and update your Metamask after here -> https://metamask.io/download/ We are working with devs to solve this issue. Sorry for the noise!",
-    longDescription: "An innovative new POTATOZ NFT developed by 9gag Labs to enhance your creativity. Outbreak starts July 3rd.",
+    longDescription: "",
 
     claimButtonText: "MINT NOW",
 
